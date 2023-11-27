@@ -53,4 +53,4 @@
   </ol>
   
 ## Контактная информация
-- Email: pyanykh.irina@bk.ru
+- Email: 6342214@mail.ru
